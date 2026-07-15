@@ -67,13 +67,20 @@ Candidate launch providers were scored using a weighted decision matrix against:
 
 <h3>STK Astrogator Simulation </h3> 
 Mission simulations were built in AGI STK Astrogator.
-The simulation included:
+The simulation included:<br/>
 - Orbit propagation <br/>
 - Finite thrust maneuvers <br/>
 - Mission timeline <br/>
 - Stopping conditions <br/>
 - Fuel consumption <br/>
 - Orbital visualization <br/>
+<br/>
+<br/>
+
+**Azimuth-Elevation-Range (AER) graph showing the spacecraft's approach to the final 500 km, 97° orbit.** <br/>
+<img width="829" height="309" alt="image" src="https://github.com/user-attachments/assets/5f5fcbd4-3a09-452f-a654-4f055a61745a" /> 
+
+
 
 ---
 
@@ -95,7 +102,7 @@ An end-of-life disposal strategy was developed to comply with orbital debris mit
 ---
 
 <h4>Tools Used </h4> 
-AGI STK Astrogator · MATLAB · Python · Microsoft Excel · Orbital Mechanics
+AGI STK Astrogator · MATLAB · Microsoft Excel · Microsoft Project
 
 <h4>Skills Demonstrated </h4> 
 Mission Design · Astrodynamics · Orbital Mechanics · Spacecraft Operations · Systems Engineering · Mission Analysis · Trade Studies · Technical Documentation
